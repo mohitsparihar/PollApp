@@ -1,2 +1,2 @@
 # PollApp
-Polling App
+Polling and survey Application
